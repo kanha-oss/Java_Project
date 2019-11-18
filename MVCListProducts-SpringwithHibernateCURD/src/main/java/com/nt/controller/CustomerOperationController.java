@@ -105,5 +105,7 @@ public class CustomerOperationController {
 		
 			return "list_customers";
 		}// method
+	public void readfile(){
+	}
 
 }
